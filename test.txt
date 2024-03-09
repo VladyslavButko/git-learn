@@ -2,3 +2,6 @@ some text
 hello!!!
 deleted line
 hey
+
+1 line
+second line
